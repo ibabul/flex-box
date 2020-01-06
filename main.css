@@ -177,6 +177,14 @@ footer {
     color: rgb(47, 54, 64);
 }
 
+.box-1-a:hover {
+    border-bottom: 2px solid rgba(25, 42, 86, 1);
+}
+
+.box-1-a:active {
+    opacity: .5;
+}
+
 .buttn {
     word-spacing: 2em;
 }
